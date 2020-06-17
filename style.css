@@ -4,3 +4,4 @@ body {
 	margin-top: var(--css-property);
 	background-color: var(--indigo);
 }
+:root{--blue:#007bff;--indigo:#6610f2;}
